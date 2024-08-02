@@ -1,1 +1,1 @@
-# rithik
+rjs polytechnic
